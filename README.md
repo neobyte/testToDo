@@ -16,4 +16,7 @@ npm i -D laravel-mix@latest vue@next @vue/compiler-sfc vue-loader@next
 
 - Run ```composer install```
 - Run migrations ```php artisan migrate```
-  
+
+## Run the app
+- Run ```php artisan serve```
+- To go return link (http://127.0.0.1:8000/)
